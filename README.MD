@@ -1,6 +1,6 @@
 # Luat开发指南
 
-# 语言部分
+## 语言部分
 
 
 - [Lua的数据类型](./Lua/Data_type.md)
@@ -24,7 +24,7 @@
 - [控制语句](./Lua/Control.md)
 
 
-# MCU部分
+## MCU部分
 
 - [数字输出](./MCU/OUTPUT/DigitalOut.md)
 
