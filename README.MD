@@ -23,6 +23,8 @@
 
 - [函数](./Lua/function.md)
 
+- [跨文件调用](./Lua/AcrossFile.md)
+
 - [基础示例程序](./Lua/example.lua)
 
 
