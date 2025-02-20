@@ -23,6 +23,7 @@
 
 - [函数](./Lua/function.md)
 
+- [基础示例程序](./Lua/example.lua)
 
 
 ## MCU部分
