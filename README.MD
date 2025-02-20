@@ -5,6 +5,8 @@
 
 - [Lua的数据类型](./Lua/Data_type.md)
 
+- [变量的使用](./Lua/ver.md)
+
 - [数字、字符、布尔](./Lua/Num_Char_Bool.md)
 
 - [type检测数据类型](./Lua/Type_Check.md)
@@ -13,15 +15,14 @@
 
 - [数据类型nil](./Lua/nil.md)
 
-- [函数](./Lua/function.md)
-
 - [数据类型:table](./Lua/Table.md)
 
 - [运算符](./Lua/operator.md)
 
-- [变量的使用](./Lua/ver.md)
-
 - [控制语句](./Lua/Control.md)
+
+- [函数](./Lua/function.md)
+
 
 
 ## MCU部分
